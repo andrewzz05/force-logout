@@ -147,7 +147,7 @@ Because block-status information is stored in a distributed cache, multiple appl
           │            │            │
           └────────────┴────────────┘
 ```
-![Distributed Caching](images/distributed-cache.gif)
+![Distributed Caching](images/distributed_cache.gif)
 
 ---
 
