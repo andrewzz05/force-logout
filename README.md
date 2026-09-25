@@ -482,6 +482,7 @@ Potential extensions include:
 * Audit logging for force-logout events
 * Administrative tooling for blocking/unblocking users
 * Automated integration tests covering concurrent requests and session invalidation
+* Future refactor to address the bottleneck caused by reading cache or calling Auth0 API on every app API request
 
 ---
 
