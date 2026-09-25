@@ -359,11 +359,12 @@ The user's next login attempt is also rejected.
 
 ---
 
+<!--
+
 ## 🎥 Demonstrations
 
 ### Force logout
 
-<!-- Replace with your actual GIF -->
 
 ![Force logout demonstration](docs/gifs/force-logout.gif)
 
@@ -371,13 +372,14 @@ The user's next login attempt is also rejected.
 
 ### Login prevention
 
-<!-- Replace with your actual GIF -->
 
 ![Blocked login demonstration](docs/gifs/blocked-login.gif)
 
 > Demonstrates a previously blocked user attempting to log in again and being rejected.
 
 **under construction**
+
+-->
 
 ---
 
