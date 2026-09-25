@@ -489,9 +489,3 @@ Potential extensions include:
 * [Redis Documentation](https://redis.io/docs/)
 
 ---
-
-## 🙌 Acknowledgements
-
-This project was developed as an architecture/design exercise focused on authentication, distributed caching, session management, and secure access control.
-
-The architecture diagram was created using [diagrams.net](https://app.diagrams.net/).
