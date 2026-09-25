@@ -135,6 +135,7 @@ Reject     Login
 
 Because block-status information is stored in a distributed cache, multiple application instances can share the same state:
 
+<!-- 
 ```text
                 ┌──────────────┐
                 │ Distributed  │
@@ -147,6 +148,7 @@ Because block-status information is stored in a distributed cache, multiple appl
           │            │            │
           └────────────┴────────────┘
 ```
+-->
 ![Distributed Caching](images/distributed_cache.gif)
 
 ---
