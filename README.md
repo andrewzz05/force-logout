@@ -154,7 +154,7 @@ Because block-status information is stored in a distributed cache, multiple appl
 
 The following diagram shows the complete force-logout flow.
 
-![Force Logout Architecture](docs/architecture.png)
+![Force Logout Architecture](images/architecture.png)
 
 ### Components
 
