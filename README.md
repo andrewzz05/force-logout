@@ -1,9 +1,5 @@
 # 🔐 Auth0 Force-Logout Mechanism
 
-[![Architecture](https://img.shields.io/badge/architecture-documented-blue)](#-architecture)
-[![Auth0](https://img.shields.io/badge/Auth0-integrated-orange)](https://auth0.com/)
-[![Status](https://img.shields.io/badge/status-prototype-yellow)](#)
-
 > **A secure, cache-aware force-logout mechanism for web applications using Auth0.**
 
 When a user is blocked, simply preventing their next login is not enough—the user may already have active sessions in the application.
