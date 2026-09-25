@@ -377,7 +377,7 @@ The user's next login attempt is also rejected.
 
 > Demonstrates a previously blocked user attempting to log in again and being rejected.
 
-**GIF requirements for this project:** keep demonstrations silent and under 20 seconds so the important behavior can be understood quickly without audio.
+**under construction**
 
 ---
 
